@@ -1,5 +1,7 @@
 ### Impact of Homeownership on Credit Card Delinquency Rates
-**TL;DR:** This project analyzed the impact of homeownership status on credit card delinquency rates. We used descriptive statistics, simulation, hypothesis testing, and regression analysis. Key findings:
+**TL;DR:** This project analyzed the impact of homeownership status on credit card delinquency rates. We used descriptive statistics, simulation, hypothesis testing, and regression analysis. 
+
+Key findings:
 
 - Mortgage holders had the highest average delinquency rate
 - Renters had the lowest average delinquency rate
